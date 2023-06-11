@@ -7,7 +7,7 @@ print(x)
 #Change the last_name of the first student from 'Jordan' to 'Bryant'
 students = [
      {'first_name':  'Michael', 'last_name' : 'Jordan'},
-     {'first_name' : 'John', 'last_name' : 'Rosales'}
+     {'first_name' : 'John', 'last_name' : 'Doe'}
 ]
 
 students[0]['last_name'] = 'Bryant'
